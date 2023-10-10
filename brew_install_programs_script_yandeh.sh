@@ -11,6 +11,9 @@ brew tap homebrew/cask
 
 # Programming Languages
 echo "Installing programming languages..."
+
+brew install flutter
+
 brew tap leoafarias/fvm
 brew install fvm
 
